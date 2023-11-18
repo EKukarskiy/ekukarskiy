@@ -7,7 +7,5 @@
 Однажды попробовав работу в проекте на SwiftUI, понял, что очень хочу двигаться именно в этом направлении. 
 
 <h3 align="left">Codewars:</h3>
-<p align="left">
 [![codewars](https://www.codewars.com/users/EKukarskiy/badges/large)](https://www.codewars.com/EKukarskiy/username)
-</p>
 
