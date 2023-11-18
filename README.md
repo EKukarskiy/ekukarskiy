@@ -8,6 +8,6 @@
 
 <h3 align="left">Codewars:</h3>
 <p align="left">
-<a href="[https://www.codewars.com/users/EKukarskiy/badges/large]" target="blank"></a>
+[![codewars](https://www.codewars.com/users/EKukarskiy/badges/large)](https://www.codewars.com/EKukarskiy/username)
 </p>
 
