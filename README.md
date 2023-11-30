@@ -1,9 +1,8 @@
-<h1 align="left">Привет, меня зовут Евгений!</h1>
-<h3 align="left">💻 Обо мне:</h3>
+<h1 align="left">Hi, my name is Evgeniy</h1>
+<h3 align="left">💻 About me:</h3>
 
-Начинающий разработчик 🍏. 
-Специализация - SwiftUI для создания iOS-приложений.
-C 2022 начал изучать основы Swift на курсах от Skillbox.
+Junior IOS Developer 🍏.
+Since 2022 I started learning Swift.
 
 #SwiftUI, #SwiftUIOnly
 
