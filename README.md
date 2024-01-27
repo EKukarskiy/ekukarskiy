@@ -1,7 +1,7 @@
 <h1 align="left">Hi, my name is Evgeniy</h1>
 <h3 align="left">💻 About me:</h3>
 
-Mobile Developer | IOS | Swift | SwiftUI
+Mobile Developer | iOS | Swift | SwiftUI
 
 ## Enjoy learning SwiftUI
 
