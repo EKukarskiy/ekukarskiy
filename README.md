@@ -5,7 +5,7 @@ Mobile Developer | iOS | Swift | SwiftUI
 
 ## Enjoy learning SwiftUI
 
-#SwiftUI, #SwiftUIOnly
+#SwiftUI
 
 <h3 align="left">Codewars:</h3>
 
