@@ -12,3 +12,4 @@ Mobile Developer | iOS | Swift | SwiftUI
 
 [![codewars](https://www.codewars.com/users/EKukarskiy/badges/large)](https://www.codewars.com/EKukarskiy/username)
 
+![image title](https://rushter.com/counter.svg)
