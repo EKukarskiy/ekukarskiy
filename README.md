@@ -1,9 +1,9 @@
 <h1 align="left">Hi, my name is Evgeniy</h1>
 <h3 align="left">💻 About me:</h3>
 
-Mobile Developer | iOS | Swift | SwiftUI
+Developer | iOS | Swift | SwiftUI
 
-## Enjoy learning SwiftUI
+## Swift, SwiftUI, SpriteKit, iOS, CoreData, REST API, Git, MVVM, Dropbox, SOLID, Scrum/Kanban, Confluence, Jira, Figma, English
 
 #SwiftUI
 
