@@ -3,9 +3,8 @@
 
 Developer | iOS | Swift | SwiftUI
 
-## Swift, SwiftUI, SpriteKit, iOS, CoreData, REST API, Git, MVVM, Dropbox, SOLID, Scrum/Kanban, Confluence, Jira, Figma, English
+## SwiftUI, SpriteKit, iOS, CoreData, REST API, Git, MVVM, Dropbox, Scrum, Confluence, Jira, Figma, English
 
-#SwiftUI
 
 <h3 align="left">Codewars:</h3>
 
